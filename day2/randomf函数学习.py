@@ -1,5 +1,5 @@
 """
-random函数的联系
+random函数的练习
 
  -*- coding: UTF-8 -*-
 @date: 2019/8/30 3:54 
