@@ -16,5 +16,5 @@ with open(r'C:\Users\Mloong\Desktop\aaa\aaa.csv', newline='', encoding='utf-8') 
 
 # 写入到CSV文件
 with open(r'C:\Users\Mloong\Desktop\aaa\aaa.csv', 'a', encoding='utf-8') as F:
-    Writer = csv.writer(F)   
+    Writer = csv.writer(F)
     Writer.writerow([1, 2, 3, 4, 5, 6])
