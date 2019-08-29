@@ -15,7 +15,7 @@
     <session id="2024552992">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.opened" value="3" />
@@ -87,8 +87,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="770" />
-    <option name="y" value="47" />
+    <option name="x" value="2907" />
+    <option name="y" value="76" />
     <option name="width" value="1710" />
     <option name="height" value="1195" />
   </component>
@@ -230,15 +230,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="38" width="1368" height="956" extended-state="0" />
-    <editor active="true" />
+    <frame x="2838" y="63" width="1368" height="956" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
