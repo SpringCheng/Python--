@@ -98,3 +98,34 @@ with open(file_name,'rb') as file_obj:
                 break
             # 将读取到的数据写入到新对象中
             new_obj.write(content)
+
+
+# 文件读取的其他操作
+import os
+from pprint import pprint
+# 获取指定目录，参数为路径，默认路径为.当前目录
+r=os.listdir()
+r=os.listdir('F:\音乐')
+pprint(r)
+
+# 获取当前所在目录
+r=os.getcwd()
+
+# 切换到指定目录
+r=os.chdir()
+
+# 创建目录
+os.mkdir('aaa')
+
+# 删除目录
+os.rmdir('aaa')
+
+# 创建文件
+open('a.txt','w')
+
+# 删除文件
+os.remove('a.txt')
+
+# 重命名，也可以移动
+os.rename('旧名字','新名字')
+os.rename('aa.txt','C:/Users/Desktop/bb.txt')
